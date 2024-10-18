@@ -1,4 +1,4 @@
-# 📁 NeWVIeW file explorer
+# 📁 NeWVieW file explorer
 
 ## About
 Welcome to the ** NeWVIeW**! 🌟 This modern and customizable file management application is built using Kivy and KivyMD. It offers a user-friendly interface for browsing, managing, and organizing files and directories on your system. 
