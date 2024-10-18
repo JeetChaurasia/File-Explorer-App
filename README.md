@@ -18,8 +18,7 @@ To get started, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/file-browser.git
-   cd file-browser
+   git clone https://github.com/JeetChaurasia/File-Explorer-App.git
 
 2. Install the required dependencies:
    ```bash
