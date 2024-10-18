@@ -26,13 +26,12 @@ To get started, follow these steps:
    
 3. Run the application:
    ```bash
-   python main.py
-     
+   python main.py     
 Usage:
-- **    Launch the app to open your file manager. 🖥️
-- **   Use the toolbar and buttons for various file operations.
-- **    Right-click files for quick actions via the context menu.
-- **    Search for files using the search bar at the top.
+-    Launch the app to open your file manager. 🖥️
+-    Use the toolbar and buttons for various file operations.
+-    Right-click files for quick actions via the context menu.
+-    Search for files using the search bar at the top.
 
 Customization
 
