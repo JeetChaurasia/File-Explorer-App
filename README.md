@@ -1,7 +1,7 @@
-# 📁 File Browser
+# 📁 NeWVIeW file explorer
 
 ## About
-Welcome to the **File Browser**! 🌟 This modern and customizable file management application is built using Kivy and KivyMD. It offers a user-friendly interface for browsing, managing, and organizing files and directories on your system. 
+Welcome to the ** NeWVIeW**! 🌟 This modern and customizable file management application is built using Kivy and KivyMD. It offers a user-friendly interface for browsing, managing, and organizing files and directories on your system. 
 
 ### Features
 - **✨ Intuitive UI**: Clean and modern design for a seamless experience.
