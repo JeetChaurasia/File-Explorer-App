@@ -26,13 +26,14 @@ To get started, follow these steps:
    
 3. Run the application:
    ```bash
-   python main.py     
- ##Usage:
+   python main.py
+   
+ ## Usage:
 -    Launch the app to open your file manager. 🖥️
 -    Use the toolbar and buttons for various file operations.
 -    Right-click files for quick actions via the context menu.
 -    Search for files using the search bar at the top.
 
- ##Customization
+ ## Customization
 
 The File Browser is highly customizable! 🎨 You can create and load plugins to add new features or modify existing ones. Check out the plugins directory for examples!
