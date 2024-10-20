@@ -1,3 +1,0 @@
-requirements 
-kivy==2.1.0
-kivymd==2.0.1dev0
