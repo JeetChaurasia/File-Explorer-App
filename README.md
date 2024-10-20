@@ -12,21 +12,6 @@ Welcome to the ** NeWVIeW**! 🌟 This modern and customizable file management a
 - **📤 Sharing**: Share files via email or cloud services directly from the app.
 - **🔌 Customizable Plugins**: Extend functionality with various plugins.
 - **🖱️ Context Menu**: Right-click for quick file-specific actions.
-
-## Installation
-To get started, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/JeetChaurasia/File-Explorer-App.git
-
-2. Install the required dependencies:
-   ```bash
-   pip install kivy kivymd
-   
-3. Run the application:
-   ```bash
-   python main.py
    
  ## Usage:
 -    Launch the app to open your file manager. 🖥️
@@ -37,3 +22,5 @@ To get started, follow these steps:
  ## Customization
 
 The File Browser is highly customizable! 🎨 You can create and load plugins to add new features or modify existing ones. Check out the plugins directory for examples!
+
+# The project is under development 
